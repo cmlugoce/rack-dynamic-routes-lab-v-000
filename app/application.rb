@@ -1,0 +1,10 @@
+class Application
+  
+  @@items = []
+  
+  
+  
+  
+  
+  
+end 
